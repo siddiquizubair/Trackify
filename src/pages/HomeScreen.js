@@ -25,7 +25,7 @@ function HomeScreen () {
         <div className="background">
             <div className="content">
                 <h1 style={title}>Trackify</h1>
-                <a href="/login">
+                <a href="https://backend-trackify.herokuapp.com/login">
                     <button style={button}>Log in with Spotify</button>
                 </a>
             </div>
