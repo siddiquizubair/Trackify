@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Trackify/static/css/main.deefabfa.chunk.css",
-    "main.js": "/Trackify/static/js/main.aff3378d.chunk.js",
-    "main.js.map": "/Trackify/static/js/main.aff3378d.chunk.js.map",
+    "main.js": "/Trackify/static/js/main.dc9b6aac.chunk.js",
+    "main.js.map": "/Trackify/static/js/main.dc9b6aac.chunk.js.map",
     "runtime-main.js": "/Trackify/static/js/runtime-main.db16049c.js",
     "runtime-main.js.map": "/Trackify/static/js/runtime-main.db16049c.js.map",
     "static/js/2.0fd3df6b.chunk.js": "/Trackify/static/js/2.0fd3df6b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.db16049c.js",
     "static/js/2.0fd3df6b.chunk.js",
     "static/css/main.deefabfa.chunk.css",
-    "static/js/main.aff3378d.chunk.js"
+    "static/js/main.dc9b6aac.chunk.js"
   ]
 }
